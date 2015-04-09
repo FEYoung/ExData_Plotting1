@@ -1,3 +1,11 @@
+DATA SCIENCE SPECIALISM
+
+MODULE 4 - Exploratory Data Analysis
+
+PROJECT 1
+
+======================================================================
+
 ## Introduction
 
 This assignment uses data from
